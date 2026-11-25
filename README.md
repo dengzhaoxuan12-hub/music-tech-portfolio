@@ -1,2 +1,2 @@
 # music-tech-portfolio
-sound and music computing projec
+sound and music computing project
